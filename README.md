@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-My name is Ashley. You can find out all about my work, writing, and speaking [on my portfolio site](http://mrfirthy.me/)
+My name is Ashley. You can find out all about my work, writing, and speaking [on my portfolio site](http://mrfirthy.me/).
 
-### Potentially interesting things
-- My first book "Practical Web Inclusion & Accessibility" is out now. You can [learn more about it here](http://learna11y.com)
+### Potentially interesting things
+- My first book "Practical Web Inclusion & Accessibility" is out now. You can [learn more about it here](http://learna11y.com).
 - I'm looking for people to join my team at [Octopus Energy](https://octopus.energy), so if you're interested please get in touch at talent[@]octopus[dot]energy
 
 <!--
