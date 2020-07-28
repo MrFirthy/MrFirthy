@@ -2,23 +2,7 @@
 
 My name is Ashley. You can find out all about my work, writing, and speaking [on my portfolio site](http://mrfirthy.me/).
 
-### Potentially interesting things
-- My first book "Practical Web Inclusion & Accessibility" is out now. You can [learn more about it here](http://learna11y.com).
-- I'm looking for people to join my team at [Octopus Energy](https://octopus.energy), so if you're interested please get in touch at talent[@]octopus[dot]energy
+### [Practical Web Inclusion & Accessibility](https://learna11y.com)
+My first book "Practical Web Inclusion & Accessibility" is out now. This book will guide you through a broad range of access needs, the barriers users often face, and provide practical advice on how your sites can help rather than hinder. Going beyond advice tailored solely for developers, this book offers potential improvements for designers, developers, user experience professionals, QA and testers, so that everyone involved in building a website can benefit.
 
-![The illustration for my book "practical web inclusion & accessibility](https://pbs.twimg.com/profile_banners/68545193/1592596759/1500x500)
-
-<!--
-**MrFirthy/MrFirthy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![The illustration for my book "practical web inclusion & accessibility](https://pbs.twimg.com/profile_banners/68545193/1592596759/1500x500)](https://learna11y.com)
